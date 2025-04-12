@@ -18,16 +18,6 @@ This is a simple C# program that shows how to:
 
 ---
 
-## 🧾 Output Example
-
----
-
-## 📂 Code File Name
-
-Make sure your file is named:
-
----
-
 ## ▶️ How to Run
 
 1. Install [.NET SDK](https://dotnet.microsoft.com/download) if not already installed.
